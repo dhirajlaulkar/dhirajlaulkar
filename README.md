@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack WebApps<br>👯 I’m looking to collaborate on Awesome Projects <br>🤝 I’m looking for help with Networking<br>🌱 I’m currently learning Backend Technologies<br>💬 Ask me about Data Structures and Algorithms<br>
+🔭 I’m currently working on Full Stack WebApps<br>👯 I’m looking to collaborate on Awesome Projects <br>🤝 I’m looking for help with Networking<br>🌱 I’m currently learning Next.js and Typescript<br>💬 Ask me about Data Structures and Algorithms<br>
 
 
 ## 🌐 Socials:
