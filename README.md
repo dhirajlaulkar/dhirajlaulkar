@@ -12,8 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dhirajlaulkar&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajlaulkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-laulkar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Repulsive-Muscle-145) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dhiraj_twts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhirajlaulkar101@gmail.com) 
