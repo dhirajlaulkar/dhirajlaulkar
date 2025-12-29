@@ -3,7 +3,7 @@
 Backend Software Engineer with strong foundations in **data structures**, **algorithms**, and **system design**, focused on building scalable and reliable services.
 
 **Go-to Stack:**  
-C++·Java·Python·JavaScript·TypeScript·Node.js·Express·Reactjs·Nestjs·Prisma·Tailwind·PostgreSQL·MongoDB
+C++ · Java · Python · JavaScript · TypeScript · Node.js · Express · Reactjs · Nestjs · Prisma · Tailwind · PostgreSQL · MongoDB
 
 
 <div align="center">
